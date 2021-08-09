@@ -1,0 +1,6 @@
+/Users/mac/RiderProjects/JustFortest/Server/bin/Debug/Server.exe
+/Users/mac/RiderProjects/JustFortest/Server/bin/Debug/Server.pdb
+/Users/mac/RiderProjects/JustFortest/Server/obj/Debug/Server.csprojAssemblyReference.cache
+/Users/mac/RiderProjects/JustFortest/Server/obj/Debug/Server.csproj.CoreCompileInputs.cache
+/Users/mac/RiderProjects/JustFortest/Server/obj/Debug/Server.exe
+/Users/mac/RiderProjects/JustFortest/Server/obj/Debug/Server.pdb

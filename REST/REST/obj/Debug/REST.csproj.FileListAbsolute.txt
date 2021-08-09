@@ -1,0 +1,6 @@
+/Users/mac/RiderProjects/REST/REST/bin/Debug/REST.exe
+/Users/mac/RiderProjects/REST/REST/bin/Debug/REST.pdb
+/Users/mac/RiderProjects/REST/REST/obj/Debug/REST.csprojAssemblyReference.cache
+/Users/mac/RiderProjects/REST/REST/obj/Debug/REST.csproj.CoreCompileInputs.cache
+/Users/mac/RiderProjects/REST/REST/obj/Debug/REST.exe
+/Users/mac/RiderProjects/REST/REST/obj/Debug/REST.pdb

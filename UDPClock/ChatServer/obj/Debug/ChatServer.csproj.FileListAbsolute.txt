@@ -1,0 +1,6 @@
+/Users/mac/RiderProjects/Clock/ChatServer/bin/Debug/ChatServer.exe
+/Users/mac/RiderProjects/Clock/ChatServer/bin/Debug/ChatServer.pdb
+/Users/mac/RiderProjects/Clock/ChatServer/obj/Debug/ChatServer.csprojAssemblyReference.cache
+/Users/mac/RiderProjects/Clock/ChatServer/obj/Debug/ChatServer.csproj.CoreCompileInputs.cache
+/Users/mac/RiderProjects/Clock/ChatServer/obj/Debug/ChatServer.exe
+/Users/mac/RiderProjects/Clock/ChatServer/obj/Debug/ChatServer.pdb

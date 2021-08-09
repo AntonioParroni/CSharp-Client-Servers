@@ -1,0 +1,6 @@
+/Users/mac/RiderProjects/JustFortest/Client/bin/Debug/Client.exe
+/Users/mac/RiderProjects/JustFortest/Client/bin/Debug/Client.pdb
+/Users/mac/RiderProjects/JustFortest/Client/obj/Debug/Client.csprojAssemblyReference.cache
+/Users/mac/RiderProjects/JustFortest/Client/obj/Debug/Client.csproj.CoreCompileInputs.cache
+/Users/mac/RiderProjects/JustFortest/Client/obj/Debug/Client.exe
+/Users/mac/RiderProjects/JustFortest/Client/obj/Debug/Client.pdb

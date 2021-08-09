@@ -1,0 +1,6 @@
+/Users/mac/RiderProjects/Clock/ClockServer/bin/Debug/ClockServer.exe
+/Users/mac/RiderProjects/Clock/ClockServer/bin/Debug/ClockServer.pdb
+/Users/mac/RiderProjects/Clock/ClockServer/obj/Debug/ClockServer.csprojAssemblyReference.cache
+/Users/mac/RiderProjects/Clock/ClockServer/obj/Debug/ClockServer.csproj.CoreCompileInputs.cache
+/Users/mac/RiderProjects/Clock/ClockServer/obj/Debug/ClockServer.exe
+/Users/mac/RiderProjects/Clock/ClockServer/obj/Debug/ClockServer.pdb

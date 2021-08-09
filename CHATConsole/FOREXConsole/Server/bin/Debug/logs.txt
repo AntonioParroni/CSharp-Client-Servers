@@ -1,0 +1,210 @@
+Currency Rates Start
+EURUSD | 1,32
+USDCAD | 1,18
+EURJPY | 123,44
+USDGBP | 0,87
+USDCHF | 0,74
+BTCUSD | 38694,43
+Currency Rates End
+[Client 1] Connected on : 04.08.2021 18:11:20
+[Client 2] Connected on : 04.08.2021 18:11:24
+[Client 3] Connected on : 04.08.2021 18:11:29
+Currency Rates Start
+EURUSD | 1,32
+USDCAD | 1,18
+EURJPY | 123,44
+USDGBP | 0,87
+USDCHF | 0,74
+BTCUSD | 38694,43
+Currency Rates End
+[Client 1] Connected on : 04.08.2021 18:12:41
+Currency Rates Start
+EURUSD | 1,32
+USDCAD | 1,18
+EURJPY | 123,44
+USDGBP | 0,87
+USDCHF | 0,74
+BTCUSD | 38694,43
+Currency Rates End
+[Client 1] Connected on : 04.08.2021 18:13:45
+[Client 1] Disconnected on : 04.08.2021 18:13:46
+Currency Rates Start
+EURUSD | 1,32
+USDCAD | 1,18
+EURJPY | 123,44
+USDGBP | 0,87
+USDCHF | 0,74
+BTCUSD | 38694,43
+Currency Rates End
+[Client 1] Connected on : 04.08.2021 18:20:49
+Currency Rates Start
+EURUSD | 1,32
+USDCAD | 1,18
+EURJPY | 123,44
+USDGBP | 0,87
+USDCHF | 0,74
+BTCUSD | 38694,43
+Currency Rates End
+[Client 1] Connected on : 04.08.2021 18:23:04
+Currency Rates Start
+EURUSD | 1,32
+USDCAD | 1,18
+EURJPY | 123,44
+USDGBP | 0,87
+USDCHF | 0,74
+BTCUSD | 38694,43
+Currency Rates End
+[Client 1] Connected on : 04.08.2021 18:23:34
+[Client 2] Connected on : 04.08.2021 18:23:47
+Currency Rates Start
+EURUSD | 1,32
+USDCAD | 1,18
+EURJPY | 123,44
+USDGBP | 0,87
+USDCHF | 0,74
+BTCUSD | 38694,43
+Currency Rates End
+[Client 1] Connected on : 04.08.2021 18:24:17
+[Client 1] Disconnected on : 04.08.2021 18:24:21
+[Client 1] Connected on : 04.08.2021 18:24:26
+Currency Rates Start
+EURUSD | 1,32
+USDCAD | 1,18
+EURJPY | 123,44
+USDGBP | 0,87
+USDCHF | 0,74
+BTCUSD | 38694,43
+Currency Rates End
+[Client 1] Connected on : 04.08.2021 18:28:49
+[Client 2] Connected on : 04.08.2021 18:28:58
+Currency Rates Start
+EURUSD | 1,32
+USDCAD | 1,18
+EURJPY | 123,44
+USDGBP | 0,87
+USDCHF | 0,74
+BTCUSD | 38694,43
+Currency Rates End
+[Client 1] Connected on : 04.08.2021 18:35:20
+Currency Rates Start
+EURUSD | 1,32
+USDCAD | 1,18
+EURJPY | 123,44
+USDGBP | 0,87
+USDCHF | 0,74
+BTCUSD | 38694,43
+Currency Rates End
+[Client 1] Connected on : 04.08.2021 18:35:59
+Currency Rates Start
+EURUSD | 1,32
+USDCAD | 1,18
+EURJPY | 123,44
+USDGBP | 0,87
+USDCHF | 0,74
+BTCUSD | 38694,43
+Currency Rates End
+[Client 1] Connected on : 04.08.2021 19:35:37
+[Client 2] Connected on : 04.08.2021 19:35:41
+[Client 3] Connected on : 04.08.2021 19:35:47
+Currency Rates Start
+EURUSD | 1,32
+USDCAD | 1,18
+EURJPY | 123,44
+USDGBP | 0,87
+USDCHF | 0,74
+BTCUSD | 38694,43
+Currency Rates End
+[Client 1] Connected on : 04.08.2021 19:40:27
+[Client 2] Connected on : 04.08.2021 19:40:29
+[Client 3] Connected on : 04.08.2021 19:40:34
+[Client 3] Disconnected on : 04.08.2021 19:41:25
+Currency Rates Start
+EURUSD | 1,32
+USDCAD | 1,18
+EURJPY | 123,44
+USDGBP | 0,87
+USDCHF | 0,74
+BTCUSD | 38694,43
+Currency Rates End
+[Client 1] Connected on : 04.08.2021 19:48:33
+[Client 2] Connected on : 04.08.2021 19:48:35
+Currency Rates Start
+EURUSD | 1,32
+USDCAD | 1,18
+EURJPY | 123,44
+USDGBP | 0,87
+USDCHF | 0,74
+BTCUSD | 38694,43
+Currency Rates End
+[Client 1] Connected on : 04.08.2021 19:50:01
+[Client 2] Connected on : 04.08.2021 19:50:04
+Currency Rates Start
+EURUSD | 1,32
+USDCAD | 1,18
+EURJPY | 123,44
+USDGBP | 0,87
+USDCHF | 0,74
+BTCUSD | 38694,43
+Currency Rates End
+[Client 1] Connected on : 04.08.2021 19:51:41
+[Client 2] Connected on : 04.08.2021 19:51:43
+Currency Rates Start
+EURUSD | 1,32
+USDCAD | 1,18
+EURJPY | 123,44
+USDGBP | 0,87
+USDCHF | 0,74
+BTCUSD | 38694,43
+Currency Rates End
+[Client 1] Connected on : 04.08.2021 19:52:14
+Currency Rates Start
+EURUSD | 1,32
+USDCAD | 1,18
+EURJPY | 123,44
+USDGBP | 0,87
+USDCHF | 0,74
+BTCUSD | 38694,43
+Currency Rates End
+[Client 1] Connected on : 04.08.2021 19:53:42
+[Client 2] Connected on : 04.08.2021 19:53:45
+Currency Rates Start
+EURUSD | 1,32
+USDCAD | 1,18
+EURJPY | 123,44
+USDGBP | 0,87
+USDCHF | 0,74
+BTCUSD | 38694,43
+Currency Rates End
+[Client 1] Connected on : 04.08.2021 19:54:43
+[Client 2] Connected on : 04.08.2021 19:54:44
+Currency Rates Start
+EURUSD | 1,32
+USDCAD | 1,18
+EURJPY | 123,44
+USDGBP | 0,87
+USDCHF | 0,74
+BTCUSD | 38694,43
+Currency Rates End
+[Client 1] Connected on : 04.08.2021 19:58:41
+Currency Rates Start
+EURUSD | 1,32
+USDCAD | 1,18
+EURJPY | 123,44
+USDGBP | 0,87
+USDCHF | 0,74
+BTCUSD | 38694,43
+Currency Rates End
+[Client 1] Connected on : 04.08.2021 20:04:07
+[Client 2] Connected on : 04.08.2021 20:04:12
+Currency Rates Start
+EURUSD | 1,32
+USDCAD | 1,18
+EURJPY | 123,44
+USDGBP | 0,87
+USDCHF | 0,74
+BTCUSD | 38694,43
+Currency Rates End
+[Client 1] Connected on : 05.08.2021 0:15:48
+[Client 1] Disconnected on : 05.08.2021 0:15:53
+[Client 1] Connected on : 05.08.2021 0:15:59
+[Client 1] Disconnected on : 05.08.2021 0:16:04
