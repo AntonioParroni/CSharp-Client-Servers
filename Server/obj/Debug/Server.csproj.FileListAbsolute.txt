@@ -4,3 +4,9 @@
 /Users/mac/RiderProjects/FOReignEXchange/Server/obj/Debug/Server.csproj.CoreCompileInputs.cache
 /Users/mac/RiderProjects/FOReignEXchange/Server/obj/Debug/Server.exe
 /Users/mac/RiderProjects/FOReignEXchange/Server/obj/Debug/Server.pdb
+/Users/mac/Documents/GitHub/CSharp-TCP-Client-Server/Server/bin/Debug/Server.exe
+/Users/mac/Documents/GitHub/CSharp-TCP-Client-Server/Server/bin/Debug/Server.pdb
+/Users/mac/Documents/GitHub/CSharp-TCP-Client-Server/Server/obj/Debug/Server.csprojAssemblyReference.cache
+/Users/mac/Documents/GitHub/CSharp-TCP-Client-Server/Server/obj/Debug/Server.csproj.CoreCompileInputs.cache
+/Users/mac/Documents/GitHub/CSharp-TCP-Client-Server/Server/obj/Debug/Server.exe
+/Users/mac/Documents/GitHub/CSharp-TCP-Client-Server/Server/obj/Debug/Server.pdb

@@ -1,7 +1,9 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Net.Sockets;
+using System.Runtime.CompilerServices;
 using System.Text;
+using System.Threading.Tasks;
 
 namespace FOReignEXchange
 {
@@ -24,9 +26,26 @@ namespace FOReignEXchange
             
             TcpListener listener = TcpListener.Create(port);
             listener.Start();
-            Console.WriteLine("Server started on socket: " + ip + ":" + port);
+            Console.WriteLine("Listening started on socket: " + ip + ":" + port);
             Console.WriteLine("Waiting for the client...");
-
+            
+            
+            
+            // async Task StartListener()
+            // {
+            //     var tcpListener = TcpListener.Create(8000);
+            //     tcpListener.Start();
+            //     while (true)
+            //     {
+            //         var tcpClient = await tcpListener.AcceptTcpClientAsync();
+            //         Console.WriteLine("[Server] Client has connected");
+            //         var task = StartHandleConnectionAsync(tcpClient);
+            //         
+            //     }
+            // }
+            //
+            // StartListener();
+            
             TcpClient client = new TcpClient();
             client = listener.AcceptTcpClient();
             
